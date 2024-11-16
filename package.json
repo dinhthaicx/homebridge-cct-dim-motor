@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-cct-dim-motor",
+  "version": "1.0.1",
+  "description": "Plugin for controlling Zigbee CCT DIM light and motor lift in HomeKit.",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "zigbee",
+    "cct",
+    "motor",
+    "dimmer"
+  ],
+  "author": "Aiglobal-Dinhthai",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  },
+  "engines": {
+    "homebridge": ">=1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/homebridge-cct-dim-motor.git"
+  }
+}
